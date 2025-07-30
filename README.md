@@ -1,4 +1,4 @@
-Projeto da plataforma "Tho Sum"
+Projeto da plataforma LeetCode
 
 Enunciado:
 
